@@ -27,6 +27,7 @@
 .header__middle > input {
     flex: 1;
     border: none;
+    outline-width: 0;
 }
 .header__inputButton{
     width: 50px !important;
